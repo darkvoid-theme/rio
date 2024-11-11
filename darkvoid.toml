@@ -1,0 +1,56 @@
+# ~/.config/rio/themes/dark_void.toml
+
+[colors]
+background = "#1c1c1c"  # Terminal background color
+foreground = "#c0c0c0"  # The foreground color
+
+# Selection
+selection-background = "#7fa1c3"  # Using blue for selection background
+selection-foreground = "#1c1c1c"  # Dark background for text
+
+# Navigation
+tabs-active = "#1bfd9c"  # Accent color for active tab
+tabs-active-foreground = "#1c1c1c"  # Dark text on active tab
+tabs-active-highlight = "#bdfe58"  # Cursor color as active tab highlight
+bar = "#404040"  # Dimmer color for bar, close to the dim black
+cursor = "#bdfe58"  # Cursor color from the Warp theme
+vi-cursor = "#bdfe58"  # Same color for vi-cursor
+
+# Search
+search-match-background = "#66b2b2"  # Cyan for search match
+search-match-foreground = "#1c1c1c"  # Dark background for search match text
+search-focused-match-background = "#baffc9"  # Green for focused match
+search-focused-match-foreground = "#1c1c1c"  # Dark background for focused match text
+
+# Regular colors
+black = "#1c1c1c"
+blue = "#7fa1c3"
+cyan = "#66b2b2"
+green = "#baffc9"
+magenta = "#dea6a0"
+red = "#ffb3ba"
+tabs = "#1bfd9c"
+white = "#c0c0c0"
+yellow = "#ffffba"
+
+# Dim colors
+dim-black = "#404040"
+dim-blue = "#7fa1c3"
+dim-cyan = "#66b2b2"
+dim-foreground = "#c0c0c0"
+dim-green = "#baffc9"
+dim-magenta = "#dea6a0"
+dim-red = "#ffb3ba"
+dim-white = "#e6e6e6"
+dim-yellow = "#ffffba"
+
+# Light colors
+light-black = "#404040"
+light-blue = "#7fa1c3"
+light-cyan = "#66b2b2"
+light-foreground = "#c0c0c0"
+light-green = "#baffc9"
+light-magenta = "#dea6a0"
+light-red = "#ffb3ba"
+light-white = "#e6e6e6"
+light-yellow = "#ffffba"
